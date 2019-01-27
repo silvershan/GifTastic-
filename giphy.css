@@ -1,0 +1,21 @@
+body {
+    background: lightblue;
+}
+
+img.card-img-top {
+    width: 450px;
+    height: 200px;
+}
+
+div.card {
+    width: 400px;
+}
+
+input#actors.form-control {
+    width: 400px;
+}
+
+button#add-actor {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
